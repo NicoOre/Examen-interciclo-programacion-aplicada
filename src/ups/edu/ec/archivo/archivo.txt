@@ -1,0 +1,3 @@
+Rector{nombre=Juan, apellido=Alvarez}
+Docente{nombre=Pedro apellido=Orellana
+	 curso=Curso{nombre=Primero, alumnos=[{nombre=Nicolas, apellido=Jaramillo}, {nombre=Jose, apellido=Sarmiento}]}}
